@@ -877,7 +877,8 @@
       "destinationDenied": "The specified directory [{path}] is unavailable or no access permissions",
       "destinationDoesNotExist": "The specified directory [{path}] does not exist",
       "fileUploadFailed": "File upload failed",
-      "maxNumberOfTasksReached": "Maximum number of tasks reached"
+      "maxNumberOfTasksReached": "Maximum number of tasks reached",
+      "taskAlreadyExist": "Task already exist!!!"
     },
     "footer": {
       "replaceLanguageConfirm": "The language already exists. Do you need to replace it?",

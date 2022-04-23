@@ -1,0 +1,13 @@
+{
+  "name": "BitComet",
+  "type": "BitComet",
+  "ver": "0.0.1",
+  "icon": "https://www.bitcomet.com/images/logo_64x64.png",
+  "scripts": [
+    "init.js"
+  ],
+  "description": "BitComet远程下载",
+  "warning": "",
+  "allowCustomPath": true,
+  "pathDescription": "当前目录列表配置是指定硬盘上的绝对路径，如 /volume1/music/ 或 D:\\download\\music\\"
+}
